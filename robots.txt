@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stonecode0x.dev/sitemap.xml
